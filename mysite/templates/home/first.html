@@ -1,0 +1,33 @@
+
+{% load staticfiles %}
+<html>
+  <head>
+    <title>Turn Up</title>
+    <script type="text/javascript" src="{% static "scripts/jquery.js" %}"></script>
+    <link rel="stylesheet" type="text/css" href="{% static "css/first.css" %}">
+  </head>
+  <body>
+    <script type="text/javascript" src="{% static "scripts/fb-login.js" %}"></script>
+    <div class="first" id="description">
+      <h1> Turn Up</h1>
+      <h2> </h2>
+    </div>
+    <!--
+    <div class="first" id="signup-container">
+      <span id="title">
+        <div class="name">
+          Sign Up
+        </div>
+        <fb:login-button scope="public_profile,email" onlogin="checkLoginState();"></fb:login-button>
+        <div id="status">
+        </div>
+      </span>
+    </div>
+    -->
+    <a>
+      <div class="first" id="signup-container-alt">
+        Or create an account
+      </div>
+    </a>
+  </body>
+</html>

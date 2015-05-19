@@ -1,38 +1,35 @@
 <head>
-  <title>Todo List</title>
+  <title>Retask</title>
 </head>
 
-<body>
-  <div class="container">
-    <header>
-     	<!-- display the count at the end of the <h1> tag -->
-			<h1>Todo List ({{incompleteCount}})</h1>
-
-      <!-- add the checkbox to <body> right below the h1 -->
-			<label class="hide-completed">
-		  	<input type="checkbox" checked="{{hideCompleted}}" />
-		  	Hide Completed Tasks
-			</label>
-
-      <form class="new-task">
-        <input type="text" name="text" placeholder="Type to add new tasks" />
-      </form>
-    </header>
-
-    <ul>
-      {{#each tasks}}
-        {{> task}}
-      {{/each}}
-    </ul>
-  </div>
-</body>
-
-<template name="task">
-  <li class="{{#if checked}}checked{{/if}}">
-    <button class="delete">&times;</button>
-
-    <input type="checkbox" checked="{{checked}}" class="toggle-checked" />
-
-    <span class="text">{{text}}</span>
-  </li>
+<template name="home">
+  {{#if this}}
+  {{else}}
+    Retask
+    <form action="/" class="login-form" style="display: inline;">
+      Log In
+      <input type="text" name="username-or-email" value="" placeholder="Username or Email">
+      <input type="password" name="password" value="" placeholder="Email Password">
+      <input type="submit" value="Log in">
+      or
+      <p class="login" onclick="$('.login-form').css('display', 'none');
+                              $('.signup-form').css('display', 'inline');">
+        Sign Up
+      </p>
+    </form>
+    <form action="/" class="signup-form" style="display: none;">
+      Sign Up
+      <input type="text" name="email" value="" placeholder="Email address">
+      <input type="text" name="email-password" value="" placeholder="Email Password">
+      <input type="text" name="username" value="" placeholder="Choose a Username">
+      <input type="password" name="password" value="" placeholder="Password">
+      <input type="password" name="retype-password" value="" placeholder="Retype Password">
+      <input type="submit" value="Sign up">
+      Already have an account?
+      <p onclick="$('.signup-form').css('display', 'none');
+                $('.login-form').css('display', 'inline');">
+        Log In
+      </p>
+    </form>
+  {{/if}}
 </template>

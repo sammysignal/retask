@@ -1,10 +1,15 @@
 UserProfiles = new Meteor.Collection('userprofile');
 
-
 Router.map(function () {
   this.route('home', {
     path: '/',
-    data: function () {return Session.user}
+    data: function () {
+      console.log(this.params);
+      return ({
+        'username': Session.user,
+        'login-fields': this.params.query
+      });
+    }
   });
 });
 

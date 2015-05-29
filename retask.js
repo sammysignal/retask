@@ -21,7 +21,7 @@ Router.map(function () {
           Session.set("user", this.params);
           // redirect to logged in!
         }
-        // attmept API login
+        // Assume password changed, attmept API login
       }
       else {
         return (0);

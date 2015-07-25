@@ -28,7 +28,7 @@ ALLOWED_HOSTS = []
 
 TEMPLATE_DIRS = [os.path.join(BASE_DIR, 'mysite/templates')]
 
-AUTH_USER_MODEL = 'django_facebook.FacebookCustomUser'
+#AUTH_USER_MODEL = 'django_facebook.FacebookCustomUser'
 
 
 # Application definition
@@ -40,7 +40,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'django_facebook',
+    #'django_facebook',
     'apps.polls',
 )
 
@@ -89,14 +89,14 @@ TEMPLATE_CONTEXT_PROCESSORS = (
     'django.core.context_processors.static',
     'django.core.context_processors.tz',
     'django.core.context_processors.request',
-    'django.contrib.messages.context_processors.messages',
-    'django_facebook.context_processors.facebook',
+    'django.contrib.messages.context_processors.messages'
+    # 'django_facebook.context_processors.facebook',
 )
 
-AUTHENTICATION_BACKENDS = (
-    'django_facebook.auth_backends.FacebookBackend',
-    'django.contrib.auth.backends.ModelBackend',
-)
+# AUTHENTICATION_BACKENDS = (
+#     'django_facebook.auth_backends.FacebookBackend',
+#     'django.contrib.auth.backends.ModelBackend',
+# )
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.6/howto/static-files/
@@ -110,5 +110,5 @@ STATICFILES_DIRS = (
 
 # Facebook Login Definitions.
 
-FACEBOOK_APP_ID = 684549834910690
-FACEBOOK_APP_SECRET = "b4071ac967ca41f02249235823fb6735"
+#FACEBOOK_APP_ID = 684549834910690
+#FACEBOOK_APP_SECRET = "b4071ac967ca41f02249235823fb6735"

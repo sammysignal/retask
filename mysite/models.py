@@ -5,11 +5,9 @@ class UserProfile(models.Model):
     # This line is required. Links UserProfile to a User model instance.
     user = models.OneToOneField(User)
 
-    friends = models.ForeignKey("self")
-
     # The additional attributes we wish to include.
-    website = models.URLField(blank=True)
-    avatar = models.ImageField(upload_to='profile_images', blank=True)
+    email = models.EmailField(blank=True)
+    email_host = models.CharField()
 
     # Override the __unicode__() method to return out something meaningful!
     def __unicode__(self):

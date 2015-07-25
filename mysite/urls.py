@@ -13,5 +13,5 @@ urlpatterns = patterns('',
     url(r'^polls/', include('apps.polls.urls', namespace="polls")),
     url(r'^accounts/', include('django_facebook.auth_urls')),
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^facebook/', include('django_facebook.urls'))
+    #url(r'^facebook/', include('django_facebook.urls'))
 )

@@ -6,6 +6,7 @@ email organization tool. The new way to do email.
 ## Quickstart
 ### Flask
 Flask is a python web framwork. I stole some code from an old project I was working on so that I could get this app running quick!
+
 1. [get pip](https://pip.pypa.io/en/latest/installing.html#install-pip). This is super useful for python development.
 2. Please follow the instructions at [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/dev/virtualenvs/) in order to set up a virtual environment.
 2. Next, activate youre newly created virtualenv and [install Flask](http://flask.pocoo.org/docs/0.10/installation/). Just get the normal dev version, not the newest version.

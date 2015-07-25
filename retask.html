@@ -1,0 +1,36 @@
+<head>
+  <title>Retask</title>
+</head>
+
+<template name="home">
+  {{#if this}}
+    got data, namely {{this}}
+  {{else}}
+    Retask
+    <div style="width: 100px; margin: 200px auto 0 auto;">
+      <form action="/" class="login-form" style="display: inline;">
+        Log In
+        <input type="text" name="email" value="" placeholder="Username or Email">
+        <input type="password" name="emailpassword" value="" placeholder="Email Password">
+        <input type="submit" value="Log in">
+        or
+        <p class="login" onclick="$('.login-form').css('display', 'none');
+                                $('.signup-form').css('display', 'inline');">
+          Sign Up
+        </p>
+      </form>
+      <form action="/" class="signup-form" style="display: none;">
+        Sign Up
+        <input type="text" name="email" value="" placeholder="Email address">
+        <input type="password" name="emailpassword" value="" placeholder="Email Password">
+        <input type="text" name="firstname" value="" placeholder="First name">
+        <input type="submit" value="Sign up">
+        Already have an account?
+        <p onclick="$('.signup-form').css('display', 'none');
+                  $('.login-form').css('display', 'inline');">
+          Log In
+        </p>
+      </form>
+    </div>
+  {{/if}}
+</template>

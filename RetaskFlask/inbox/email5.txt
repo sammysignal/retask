@@ -1,0 +1,93 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: sammysignal@gmail.com
+Received: by 10.202.214.144 with SMTP id n138csp2215382oig;
+        Tue, 28 Jul 2015 19:38:07 -0700 (PDT)
+X-Received: by 10.50.138.70 with SMTP id qo6mr1101926igb.15.1438137487866;
+        Tue, 28 Jul 2015 19:38:07 -0700 (PDT)
+Return-Path: <mitchelllipka@college.harvard.edu>
+Received: from mail-io0-f177.google.com (mail-io0-f177.google.com. [209.85.223.177])
+        by mx.google.com with ESMTPS id dp6si21372307icb.67.2015.07.28.19.38.07
+        for <sammysignal@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 28 Jul 2015 19:38:07 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.223.177 is neither permitted nor denied by best guess record for domain of mitchelllipka@college.harvard.edu) client-ip=209.85.223.177;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 209.85.223.177 is neither permitted nor denied by best guess record for domain of mitchelllipka@college.harvard.edu) smtp.mail=mitchelllipka@college.harvard.edu
+Received: by mail-io0-f177.google.com with SMTP id a135so7030635ioe.1
+        for <sammysignal@gmail.com>; Tue, 28 Jul 2015 19:38:07 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to
+         :content-type;
+        bh=DGYr6PxuiLB/9WRO6ShGfZsSh+FcJI6V1QW7SxbyNug=;
+        b=YXEWM0Esh4Y0N7LGTM4qYWL2kNVpE9eysLJ+wyrpeyQtlaSB4R6XtS5QKvaJWks9tO
+         maZgsCKIUh1fCCSdyVVpAUIOiX/tu7w/Ua1YlGb9HQVUdwhEfIcp4kbIWoh+FCDgOQmm
+         qfCgQySX6QwhG4R1xGmSSD5epUTiycAURSM4shvVFE9Qmjrvaf5ANBDsPsURS36/1d1x
+         35sHvviwkof7Ai0TyjLMqIA1leoqlXEE9hlSsuuoVKtm2fRaojhjLsg23LdpSyiPDQ7l
+         WjLaMGNNhDFgJ5gtBJkJd2Sz/mSiayb435KmpClw1Dq5xJ3jez3pS/NrQtMDhU/2rhPL
+         1J+Q==
+X-Gm-Message-State: ALoCoQlBLmndNFZjNnBEvfHLXhTNBQlzioVHosrJH7AFBSeMnmv4AwtgHm46FYsWUxRCUS5pk0d6
+X-Received: by 10.107.13.201 with SMTP id 192mr59528971ion.70.1438137487247;
+ Tue, 28 Jul 2015 19:38:07 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.107.192.196 with HTTP; Tue, 28 Jul 2015 19:37:47 -0700 (PDT)
+From: Mitchell Lipka <mitchelllipka@college.harvard.edu>
+Date: Tue, 28 Jul 2015 22:37:47 -0400
+Message-ID: <CAGHZ7PO4a19m6L8ry6JQR1MxqSHC0u2p=7vcOmU=JwTB8920Xg@mail.gmail.com>
+Subject: hi
+To: Sameer Mehra <sammysignal@gmail.com>
+Content-Type: multipart/alternative; boundary=001a113fd5e0111465051bfa7a01
+
+--001a113fd5e0111465051bfa7a01
+Content-Type: text/plain; charset=UTF-8
+
+---------- Forwarded message ----------
+From: Olga <mitchelllipkasz@iusacell.net>
+Date: Fri, Jul 3, 2015 at 5:15 PM
+Subject: hi
+To: mitchelllipka@college.harvard.edu
+
+
+  This is me, Olga, from Moscow! Remembered me? How are you?
+
+Still got no message from you! I miss you actually! When we will go out for
+a date?
+I'll be waiting for your suggestions and I hope that our meeting will
+happen as soon as possible!
+
+Please answer me.
+
+--001a113fd5e0111465051bfa7a01
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><div class=3D"gmail_quote">---------- Forwarded messag=
+e ----------<br>From: <b class=3D"gmail_sendername">Olga</b> <span dir=3D"l=
+tr">&lt;<a href=3D"mailto:mitchelllipkasz@iusacell.net">mitchelllipkasz@ius=
+acell.net</a>&gt;</span><br>Date: Fri, Jul 3, 2015 at 5:15 PM<br>Subject: h=
+i<br>To: <a href=3D"mailto:mitchelllipka@college.harvard.edu">mitchelllipka=
+@college.harvard.edu</a><br><br><br><u></u>
+
+
+
+
+
+
+
+<div>
+
+<p><span style=3D"font-size:large"> This is me, Olga, from Moscow!
+Remembered me? How are you?</span></p>
+<p><span style=3D"font-size:large">Still got no message from you! I miss yo=
+u
+actually! When we will go out for a date?<br>
+I&#39;ll be waiting for your suggestions and I hope that our meeting will h=
+appen as
+soon as possible!</span></p>
+<p><span style=3D"font-size:large">Please answer me.</span></p>
+
+</div>
+
+</div><br></div>
+
+--001a113fd5e0111465051bfa7a01--

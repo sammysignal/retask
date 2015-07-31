@@ -1,0 +1,238 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: sammysignal@gmail.com
+Received: by 10.202.214.144 with SMTP id n138csp2215105oig;
+        Tue, 28 Jul 2015 19:37:03 -0700 (PDT)
+X-Received: by 10.194.58.130 with SMTP id r2mr71877305wjq.72.1438137423022;
+        Tue, 28 Jul 2015 19:37:03 -0700 (PDT)
+Return-Path: <hleverson@college.harvard.edu>
+Received: from mail-wi0-f196.google.com (mail-wi0-f196.google.com. [209.85.212.196])
+        by mx.google.com with ESMTPS id fi5si24158499wib.110.2015.07.28.19.37.02
+        for <sammysignal@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 28 Jul 2015 19:37:03 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.212.196 is neither permitted nor denied by best guess record for domain of hleverson@college.harvard.edu) client-ip=209.85.212.196;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 209.85.212.196 is neither permitted nor denied by best guess record for domain of hleverson@college.harvard.edu) smtp.mail=hleverson@college.harvard.edu
+Received: by mail-wi0-f196.google.com with SMTP id mm11so949227wic.1
+        for <sammysignal@gmail.com>; Tue, 28 Jul 2015 19:37:02 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to
+         :content-type;
+        bh=/+TCQ4c0U+tSEgLxiLycOXBZB4hPDJQAbsbnzPGSQqQ=;
+        b=FxTlwWfUE0U7v9dx9RFR7cJtalasCgr/8NEZSbDiyDmukv9r1Vsr4QF63/LDWUOzvW
+         sU4KIrHJIZSDoEbe5rzilIHkhYKojxT1YCCvyBzsq4zrpN5m+w56Alogd0A2VtZaqSmE
+         JyYwyJ6B7QNMMbmysWd5A+Elu9zoyiY60bWDn5jkHFlbkBJmzGeFxHpw+EEWSRizf4Yh
+         yusI4CMLqaHHsR7iihWWCGiwfE0TI/vB7nVeBFnyGCY7fQ44iMHTYdm44dUHDwuLG7Us
+         2XpsyaWg/6f1Pjdvywx55fjn8Y4YrC+j7J0aC8CUrhTaTXLpg+xng3xcOcNW4BjoHHLq
+         dBYA==
+X-Gm-Message-State: ALoCoQneTydY+CkfGeP8uaCx4e4+BlrA1J9Wkg8KZqWkM0wdAHDcAFza3V2xj4h97ot5XGVOWYfN
+X-Received: by 10.180.9.6 with SMTP id v6mr1058229wia.83.1438137422463; Tue,
+ 28 Jul 2015 19:37:02 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.27.108.131 with HTTP; Tue, 28 Jul 2015 19:36:43 -0700 (PDT)
+From: Hannah Leverson <hleverson@college.harvard.edu>
+Date: Tue, 28 Jul 2015 22:36:43 -0400
+Message-ID: <CAP8+FRTyQ2b_tPD5yuvENg1dT+g+j6FVeGFNVV3d_GnuZYR9Dw@mail.gmail.com>
+Subject: =?UTF-8?Q?Fr=C3=A4ulein_Gisele_Martin?=
+To: sammysignal <sammysignal@gmail.com>
+Content-Type: multipart/alternative; boundary=001a11c23d9c345bc9051bfa76ba
+
+--001a11c23d9c345bc9051bfa76ba
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+*Von: Fr=C3=A4ulein Gisele Martin,*
+
+
+
+*Lieber einer,*
+
+
+
+*Ich schreibe diesen Brief mit allem Respekt und herz der Tr=C3=A4nen, da w=
+ir
+noch nicht bekannte oder trafen uns vorher.*
+
+
+
+*Ich bin Fr=C3=A4ulein Gisele Martin. und ich habe Fonds von meinem verstor=
+benen
+Vater Chef Felix Martin vererbt. die in den letzten Krise in der
+Elfenbeink=C3=BCste gestorben. Ich m=C3=B6chte mich f=C3=BCr Ihre Unterst=
+=C3=BCtzung bei der
+Investitionssumme in dieses lukrative Venture oder Herstellungs und
+Immobilienmanagement in Ihrem Land zu beantragen. (US $ 10.500.000,00) Zehn
+Millionen f=C3=BCnfhunderttausend Einheitsstaat von US-Dollar auf Ihr Bankk=
+onto.*
+
+
+
+*Bitte, ich bin bereit, Ihnen 15% des Gesamtfonds nach der =C3=9Cbertragung=
+ auf
+Ihr Bankkonto in Ihrem Land anbieten,*
+
+
+
+*Zu investieren und ich werde Ihre Unterst=C3=BCtzung bei der Aufnahme der =
+Fonds
+in Ihrem Konto erforderlich. Ich werde froh sein, Ihnen einige vern=C3=BCnf=
+tige
+Prozent von der Gesamtsumme f=C3=BCr Ihre Unterst=C3=BCtzung zu geben.*
+
+
+
+*Vor dem Tod meines Vaters, er gab mir alle notwendigen rechtlichen
+Unterlagen betreffend die Hinterlegung des Fonds in der Bank, ich bin 21
+Jahre alt und eine Universit=C3=A4t Undergraduate-und wei=C3=9F wirklich ni=
+cht, was
+zu tun ist. Jetzt m=C3=B6chte ich ein Konto im Ausland, wo kann ich diese G=
+elder
+zu transferieren und nach der Transaktion werde ich kommen und dauerhaft in
+Ihrem Land aufhalten, bis eine solche Zeit, die es convinient f=C3=BCr mich
+wieder zu Hause, wenn ich es w=C3=BCnschen, um zur=C3=BCckzukehren. Das ist=
+, weil ich
+eine Menge R=C3=BCckschl=C3=A4ge als Folge der unaufh=C3=B6rlichen politisc=
+hen Krise hier
+in der Elfenbeink=C3=BCste gelitten. Der Tod meines Vaters Kummer eigentlic=
+h
+gebracht, um mein Leben. Ich m=C3=B6chte auch die der Fonds unter Ihrer Obh=
+ut zu
+investieren, weil ich nichts von Business-Welt.*
+
+
+
+*Ich bin in einem aufrichtigen Wunsch Ihrer bescheidenen Hilfe in dieser
+Hinsicht. Ihre Anregungen und Ideen wird hoch angesehen werden. Nun
+erlauben Sie mir, diese paar Fragen stellen:*
+
+
+
+*1. K=C3=B6nnen Sie mir ehrlich helfen, von Ihrem Herzen?*
+
+*2. Kann ich v=C3=B6llig vertrauen?*
+
+*3. Wie viel Prozent des gesamten Geld wird appreciateable von Ihnen sein?*
+
+
+
+*Bitte bedenken Sie und erhalten Sie zur=C3=BCck zu mir so bald wie m=C3=B6=
+glich.
+Immedaitely ich Ihre Bereitschaft zu best=C3=A4tigen, werde ich zu Ihnen me=
+in
+Bild und geben Ihnen auch mehr Informationen =C3=BCber mich und der Bank, w=
+o
+mein verstorbener Vater hinterlegt den Fonds, so dass Sie die Bank zu
+erreichen und best=C3=A4tigen die Existenz des Fonds als auch, weil Sehen h=
+ei=C3=9Ft
+glauben.*
+
+
+
+*Ich warte auf Ihre sofortige Reaktion.*
+
+*Freundliche Gr=C3=BC=C3=9Fe*
+
+*Fr=C3=A4ulein Gisele Martin.*
+
+--=20
+Hannah Leverson
+Human Evolutionary Biology BA Candidate
+Harvard College | Class of 2017
+Tel. 414-803-8474
+
+--001a11c23d9c345bc9051bfa76ba
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div style=3D"font-size:12.8000001907349px"><p class=3D"Ms=
+oNormal"><b><span style=3D"font-family:Arial,sans-serif">Von: Fr=C3=A4ulein=
+ Gisele Martin,</span></b><span style=3D"font-family:&#39;MS PGothic&#39;,s=
+ans-serif"><u></u><u></u></span></p></div><div style=3D"font-size:12.800000=
+1907349px"><p class=3D"MsoNormal"><span style=3D"font-family:&#39;MS PGothi=
+c&#39;,sans-serif"><u></u>=C2=A0<u></u></span></p></div><div style=3D"font-=
+size:12.8000001907349px"><p class=3D"MsoNormal"><b><span style=3D"font-fami=
+ly:Arial,sans-serif">Lieber einer,</span></b><span style=3D"font-family:&#3=
+9;MS PGothic&#39;,sans-serif"><u></u><u></u></span></p></div><div style=3D"=
+font-size:12.8000001907349px"><p class=3D"MsoNormal"><span style=3D"font-fa=
+mily:&#39;MS PGothic&#39;,sans-serif"><u></u>=C2=A0<u></u></span></p></div>=
+<div style=3D"font-size:12.8000001907349px"><p class=3D"MsoNormal"><b><span=
+ style=3D"font-family:Arial,sans-serif">Ich schreibe diesen Brief mit allem=
+ Respekt und herz der Tr=C3=A4nen, da wir noch nicht bekannte oder trafen u=
+ns vorher.</span></b><span style=3D"font-family:&#39;MS PGothic&#39;,sans-s=
+erif"><u></u><u></u></span></p></div><div style=3D"font-size:12.80000019073=
+49px"><p class=3D"MsoNormal"><span style=3D"font-family:&#39;MS PGothic&#39=
+;,sans-serif"><u></u>=C2=A0<u></u></span></p></div><div style=3D"font-size:=
+12.8000001907349px"><p class=3D"MsoNormal"><b><span style=3D"font-family:Ar=
+ial,sans-serif">Ich bin Fr=C3=A4ulein Gisele Martin. und ich habe Fonds von=
+ meinem verstorbenen Vater Chef Felix Martin vererbt. die in den letzten Kr=
+ise in der Elfenbeink=C3=BCste gestorben. Ich m=C3=B6chte mich f=C3=BCr Ihr=
+e Unterst=C3=BCtzung bei der Investitionssumme in dieses lukrative Venture =
+oder Herstellungs und Immobilienmanagement in Ihrem Land zu beantragen. (US=
+ $ 10.500.000,00) Zehn Millionen f=C3=BCnfhunderttausend Einheitsstaat von =
+US-Dollar auf Ihr Bankkonto.</span></b><span style=3D"font-family:&#39;MS P=
+Gothic&#39;,sans-serif"><u></u><u></u></span></p></div><div style=3D"font-s=
+ize:12.8000001907349px"><p class=3D"MsoNormal"><span style=3D"font-family:&=
+#39;MS PGothic&#39;,sans-serif"><u></u>=C2=A0<u></u></span></p></div><div s=
+tyle=3D"font-size:12.8000001907349px"><div><p class=3D"MsoNormal"><b><span =
+style=3D"font-family:Arial,sans-serif">Bitte, ich bin bereit, Ihnen 15% des=
+ Gesamtfonds nach der =C3=9Cbertragung auf Ihr Bankkonto in Ihrem Land anbi=
+eten,<u></u><u></u></span></b></p></div><div><p class=3D"MsoNormal"><b><spa=
+n style=3D"font-family:Arial,sans-serif"><u></u>=C2=A0<u></u></span></b></p=
+></div><div><p class=3D"MsoNormal"><b><span style=3D"font-family:Arial,sans=
+-serif">Zu investieren und ich werde Ihre Unterst=C3=BCtzung bei der Aufnah=
+me der Fonds in Ihrem Konto erforderlich. Ich werde froh sein, Ihnen einige=
+ vern=C3=BCnftige Prozent von der Gesamtsumme f=C3=BCr Ihre Unterst=C3=BCtz=
+ung zu geben.<u></u><u></u></span></b></p></div><div><p class=3D"MsoNormal"=
+><b><span style=3D"font-family:Arial,sans-serif"><u></u>=C2=A0<u></u></span=
+></b></p></div><div><p class=3D"MsoNormal"><b><span style=3D"font-family:Ar=
+ial,sans-serif">Vor dem Tod meines Vaters, er gab mir alle notwendigen rech=
+tlichen Unterlagen betreffend die Hinterlegung des Fonds in der Bank, ich b=
+in 21 Jahre alt und eine Universit=C3=A4t Undergraduate-und wei=C3=9F wirkl=
+ich nicht, was zu tun ist. Jetzt m=C3=B6chte ich ein Konto im Ausland, wo k=
+ann ich diese Gelder zu transferieren und nach der Transaktion werde ich ko=
+mmen und dauerhaft in Ihrem Land aufhalten, bis eine solche Zeit, die es co=
+nvinient f=C3=BCr mich wieder zu Hause, wenn ich es w=C3=BCnschen, um zur=
+=C3=BCckzukehren. Das ist, weil ich eine Menge R=C3=BCckschl=C3=A4ge als Fo=
+lge der unaufh=C3=B6rlichen politischen Krise hier in der Elfenbeink=C3=BCs=
+te gelitten. Der Tod meines Vaters Kummer eigentlich gebracht, um mein Lebe=
+n. Ich m=C3=B6chte auch die der Fonds unter Ihrer Obhut zu investieren, wei=
+l ich nichts von Business-Welt.<u></u><u></u></span></b></p></div><div><p c=
+lass=3D"MsoNormal"><b><span style=3D"font-family:Arial,sans-serif"><u></u>=
+=C2=A0<u></u></span></b></p></div><div><p class=3D"MsoNormal"><b><span styl=
+e=3D"font-family:Arial,sans-serif">Ich bin in einem aufrichtigen Wunsch Ihr=
+er bescheidenen Hilfe in dieser Hinsicht. Ihre Anregungen und Ideen wird ho=
+ch angesehen werden. Nun erlauben Sie mir, diese paar Fragen stellen:<u></u=
+><u></u></span></b></p></div><div><p class=3D"MsoNormal"><b><span style=3D"=
+font-family:Arial,sans-serif"><u></u>=C2=A0<u></u></span></b></p></div><div=
+><div><p class=3D"MsoNormal"><b><span style=3D"font-family:Arial,sans-serif=
+">1. K=C3=B6nnen Sie mir ehrlich helfen, von Ihrem Herzen?<u></u><u></u></s=
+pan></b></p></div><div><p class=3D"MsoNormal"><b><span style=3D"font-family=
+:Arial,sans-serif">2. Kann ich v=C3=B6llig vertrauen?<u></u><u></u></span><=
+/b></p></div><div><p class=3D"MsoNormal"><b><span style=3D"font-family:Aria=
+l,sans-serif">3. Wie viel Prozent des gesamten Geld wird appreciateable von=
+ Ihnen sein?<u></u><u></u></span></b></p></div><div><p class=3D"MsoNormal">=
+<b><span style=3D"font-family:Arial,sans-serif"><u></u>=C2=A0<u></u></span>=
+</b></p></div><div><p class=3D"MsoNormal"><b><span style=3D"font-family:Ari=
+al,sans-serif">Bitte bedenken Sie und erhalten Sie zur=C3=BCck zu mir so ba=
+ld wie m=C3=B6glich. Immedaitely ich Ihre Bereitschaft zu best=C3=A4tigen, =
+werde ich zu Ihnen mein Bild und geben Ihnen auch mehr Informationen =C3=BC=
+ber mich und der Bank, wo mein verstorbener Vater hinterlegt den Fonds, so =
+dass Sie die Bank zu erreichen und best=C3=A4tigen die Existenz des Fonds a=
+ls auch, weil Sehen hei=C3=9Ft glauben.<u></u><u></u></span></b></p></div><=
+div><p class=3D"MsoNormal"><b><span style=3D"font-family:Arial,sans-serif">=
+<u></u>=C2=A0<u></u></span></b></p></div><div><div><p class=3D"MsoNormal"><=
+b><span style=3D"font-family:Arial,sans-serif">Ich warte auf Ihre sofortige=
+ Reaktion.<u></u><u></u></span></b></p></div><div><p class=3D"MsoNormal"><b=
+><span style=3D"font-family:Arial,sans-serif">Freundliche Gr=C3=BC=C3=9Fe<u=
+></u><u></u></span></b></p></div><div><p class=3D"MsoNormal"><b><span style=
+=3D"font-family:Arial,sans-serif">Fr=C3=A4ulein Gisele Martin.</span></b></=
+p></div></div></div></div><div><br></div>-- <br><div class=3D"gmail_signatu=
+re"><div dir=3D"ltr"><div><div dir=3D"ltr">Hannah Leverson<div><div style=
+=3D"font-size:12.7272720336914px">Human Evolutionary Biology BA Candidate</=
+div><span style=3D"font-size:12.7272720336914px"><font color=3D"#000000">Ha=
+rvard College | Class of 2017</font></span><div style=3D"font-size:12.72727=
+20336914px">Tel. 414-803-8474=C2=A0</div></div></div></div></div></div>
+</div>
+
+--001a11c23d9c345bc9051bfa76ba--

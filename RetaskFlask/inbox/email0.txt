@@ -1,0 +1,61 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: sammysignal@gmail.com
+Received: by 10.202.214.144 with SMTP id n138csp2214022oig;
+        Tue, 28 Jul 2015 19:33:12 -0700 (PDT)
+X-Received: by 10.194.2.51 with SMTP id 19mr76650079wjr.40.1438137191743;
+        Tue, 28 Jul 2015 19:33:11 -0700 (PDT)
+Return-Path: <hleverson@college.harvard.edu>
+Received: from mail-wi0-f180.google.com (mail-wi0-f180.google.com. [209.85.212.180])
+        by mx.google.com with ESMTPS id x4si40820205wjq.202.2015.07.28.19.33.11
+        for <sammysignal@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 28 Jul 2015 19:33:11 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.212.180 is neither permitted nor denied by best guess record for domain of hleverson@college.harvard.edu) client-ip=209.85.212.180;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 209.85.212.180 is neither permitted nor denied by best guess record for domain of hleverson@college.harvard.edu) smtp.mail=hleverson@college.harvard.edu
+Received: by mail-wi0-f180.google.com with SMTP id mv11so200825516wic.0
+        for <sammysignal@gmail.com>; Tue, 28 Jul 2015 19:33:11 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to
+         :content-type;
+        bh=Vn24LinjDA8Be36vHB60SoYsjrdQIa7Y5e9fetJbVmY=;
+        b=j6q7upLaO5yv3/RzDvnsSYnE4Byapf08abCq2uD9LK2gZijkeELX6bO0JkdXxd5RI3
+         +Kf/hzpbItukIWhLwIAYMVQAplizN0FJTcwyPLl1kdSxa1RuCIARMEYBgE/+a8RkDvWB
+         GT9iHgjLaOkOSHcV5K/GwwPdHchrvWtT8nmgyAH8w8HsXuGyZOCrC/V7At7HgHPABv31
+         iGAl0nFu+LseGwn03VOgsCZNATPAqY4Z1J2Ude+lOgsIF5lr8he/0djaNvQK2WNz3hcX
+         m4dVe3QhaT9dwGXHsm3PNMfUZsfNBgl7NHHq4FWAwXFZibCEoZLS5VGDGPkSwqrUmKUM
+         +3dw==
+X-Gm-Message-State: ALoCoQlDlfwEDqMj3tj4Pu6C/tsYq8ei1EVT6P0h2+kneUN324l/o9aeTmz4srCjzM36d60QJUQn
+X-Received: by 10.194.77.70 with SMTP id q6mr71611419wjw.70.1438137190934;
+ Tue, 28 Jul 2015 19:33:10 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.27.108.131 with HTTP; Tue, 28 Jul 2015 19:32:51 -0700 (PDT)
+From: Hannah Leverson <hleverson@college.harvard.edu>
+Date: Tue, 28 Jul 2015 22:32:51 -0400
+Message-ID: <CAP8+FRTvZCYniMMiK8Lfv6_eyGdVC5nvULgQcssfjvFOKvD7OA@mail.gmail.com>
+Subject: Did you have some kind of argument with your big sister last night?
+To: sammysignal@gmail.com
+Content-Type: multipart/alternative; boundary=047d7bf0c296678195051bfa688a
+
+--047d7bf0c296678195051bfa688a
+Content-Type: text/plain; charset=UTF-8
+
+Hannah Leverson
+Human Evolutionary Biology BA Candidate
+Harvard College | Class of 2017
+Tel. 414-803-8474
+
+--047d7bf0c296678195051bfa688a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br clear=3D"all"><div><br></div><br><div class=3D"gmail_s=
+ignature"><div dir=3D"ltr"><div><div dir=3D"ltr">Hannah Leverson<div><div s=
+tyle=3D"font-size:12.7272720336914px">Human Evolutionary Biology BA Candida=
+te</div><span style=3D"font-size:12.7272720336914px"><font color=3D"#000000=
+">Harvard College | Class of 2017</font></span><div style=3D"font-size:12.7=
+272720336914px">Tel. 414-803-8474=C2=A0</div></div></div></div></div></div>
+</div>
+
+--047d7bf0c296678195051bfa688a--

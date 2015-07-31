@@ -142,3 +142,6 @@ def send_confirm_email(code, mail, username, email):
 	mail.send(msg)
 	return
 
+def email_to_dict(path_to_email):
+	pass
+	

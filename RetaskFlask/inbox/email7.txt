@@ -1,0 +1,104 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: sammysignal@gmail.com
+Received: by 10.202.214.144 with SMTP id n138csp2216090oig;
+        Tue, 28 Jul 2015 19:40:41 -0700 (PDT)
+X-Received: by 10.194.78.230 with SMTP id e6mr69418645wjx.43.1438137640785;
+        Tue, 28 Jul 2015 19:40:40 -0700 (PDT)
+Return-Path: <hleverson@college.harvard.edu>
+Received: from mail-wi0-f180.google.com (mail-wi0-f180.google.com. [209.85.212.180])
+        by mx.google.com with ESMTPS id en17si24196569wid.73.2015.07.28.19.40.40
+        for <sammysignal@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 28 Jul 2015 19:40:40 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.212.180 is neither permitted nor denied by best guess record for domain of hleverson@college.harvard.edu) client-ip=209.85.212.180;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 209.85.212.180 is neither permitted nor denied by best guess record for domain of hleverson@college.harvard.edu) smtp.mail=hleverson@college.harvard.edu
+Received: by mail-wi0-f180.google.com with SMTP id mv11so201121339wic.0
+        for <sammysignal@gmail.com>; Tue, 28 Jul 2015 19:40:40 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to
+         :content-type;
+        bh=bv2yKSJiXVldzRaft1OkIok/jl3qy9+ZM6ZSIoOrCgg=;
+        b=HIzsL0iFEf8A4n6gHt2KiqESNERTloBQ/K5wv0WQQkKGz2ziyhcbGxUP6cBYBv9BVm
+         uruAdbe78Embs5FOEtLnkqxKxDRLz+Bj6KgFoWw/A0ZTpoJ00HYTcBLzcdcbSXiEHilg
+         KO8N48nC6qG0mIgItmOqxrQhtCHUTiZ3Lftr+g7zaR6l1guLsmwgR+OhDi0ArucOLb6k
+         h9m3FHGSquJVQ1ICnoXVv5RlaADqQRWDapM9HZVXRyjIYd5YrmP2CJ7OaM9nrmdygWB/
+         mCaXyNDWX9y/kNy1yS66KZoCCpR+hX0I6TMBUUYNKn9pBGxLqx5hdP2lmIlGHsyXUllc
+         YmYA==
+X-Gm-Message-State: ALoCoQloLuXaCXOCoGU025HxpVKKd2iR7D2sH2PhZlC1t+0k6hiBd3TZhIrS63f+MZpxfUm+ricb
+X-Received: by 10.194.77.70 with SMTP id q6mr71656960wjw.70.1438137640233;
+ Tue, 28 Jul 2015 19:40:40 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.27.108.131 with HTTP; Tue, 28 Jul 2015 19:40:20 -0700 (PDT)
+From: Hannah Leverson <hleverson@college.harvard.edu>
+Date: Tue, 28 Jul 2015 22:40:20 -0400
+Message-ID: <CAP8+FRQX59-P4NizWmnDwwVjtbj1+2gzi3MwAbxqAGeO_Kqc_Q@mail.gmail.com>
+Subject: [THROPTALK] Can we watch the Mayweather vs. Pacquiao match during the
+ Winthrop Formal?
+To: Sameer Mehra <sammysignal@gmail.com>, 
+	Mitchell Lipka <mitchelllipka@college.harvard.edu>
+Content-Type: multipart/alternative; boundary=047d7bf0c2962f3a67051bfa8366
+
+--047d7bf0c2962f3a67051bfa8366
+Content-Type: text/plain; charset=UTF-8
+
+Bryan in H here, feeling really hungry right now.
+
+Winthrop Formal is this Saturday from 10PM-2AM at Gore.
+
+And....Mayweather vs. MANNY PACQUIAO's fight is also this Saturday,
+starting at 11PM!
+It's pay per view and costs $99.
+
+Can Winthrop host the viewing party in the JCR during the formal?
+
+For your information, it's the highest grossing (if not, the biggest)
+boxing fight in the history.
+Mayweather is an undefeated 5 division world champion.
+PACQUIAO is an 8 division world champion.
+
+Thanks guys!
+
+Bryan
+
+-- 
+Hannah Leverson
+Human Evolutionary Biology BA Candidate
+Harvard College | Class of 2017
+Tel. 414-803-8474
+
+--047d7bf0c2962f3a67051bfa8366
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><span style=3D"font-size:12.8000001907349px">Bryan in H he=
+re, feeling really hungry right now.=C2=A0</span><div style=3D"font-size:12=
+.8000001907349px"><br></div><div style=3D"font-size:12.8000001907349px">Win=
+throp Formal is this Saturday from=C2=A0<span class=3D"aBn" tabindex=3D"0">=
+<span class=3D"aQJ">10PM-2AM</span></span>=C2=A0at Gore.</div><div style=3D=
+"font-size:12.8000001907349px"><br></div><div style=3D"font-size:12.8000001=
+907349px">And....Mayweather vs. MANNY PACQUIAO&#39;s fight is also this Sat=
+urday, starting at=C2=A0<span class=3D"aBn" tabindex=3D"0"><span class=3D"a=
+QJ">11PM</span></span>!</div><div style=3D"font-size:12.8000001907349px">It=
+&#39;s pay per view and costs $99.</div><div style=3D"font-size:12.80000019=
+07349px"><br></div><div style=3D"font-size:12.8000001907349px">Can Winthrop=
+ host the viewing party in the JCR during the formal?</div><div style=3D"fo=
+nt-size:12.8000001907349px"><br></div><div style=3D"font-size:12.8000001907=
+349px">For your information, it&#39;s the highest grossing (if not, the big=
+gest) boxing fight in the history.=C2=A0</div><div style=3D"font-size:12.80=
+00001907349px">Mayweather is an undefeated 5 division world champion.</div>=
+<div style=3D"font-size:12.8000001907349px">PACQUIAO is an 8 division world=
+ champion.=C2=A0</div><div style=3D"font-size:12.8000001907349px"><br></div=
+><div style=3D"font-size:12.8000001907349px">Thanks guys!</div><span class=
+=3D"HOEnZb" style=3D"font-size:12.8000001907349px"><font color=3D"#888888">=
+<div><br></div><div>Bryan</div></font></span><div><br></div>-- <br><div cla=
+ss=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr">Hannah Levers=
+on<div><div style=3D"font-size:12.7272720336914px">Human Evolutionary Biolo=
+gy BA Candidate</div><span style=3D"font-size:12.7272720336914px"><font col=
+or=3D"#000000">Harvard College | Class of 2017</font></span><div style=3D"f=
+ont-size:12.7272720336914px">Tel. 414-803-8474=C2=A0</div></div></div></div=
+></div></div>
+</div>
+
+--047d7bf0c2962f3a67051bfa8366--

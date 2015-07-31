@@ -1,0 +1,96 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: sammysignal@gmail.com
+Received: by 10.202.214.144 with SMTP id n138csp2214575oig;
+        Tue, 28 Jul 2015 19:35:05 -0700 (PDT)
+X-Received: by 10.180.78.136 with SMTP id b8mr1048087wix.44.1438137305274;
+        Tue, 28 Jul 2015 19:35:05 -0700 (PDT)
+Return-Path: <hleverson@college.harvard.edu>
+Received: from mail-wi0-f170.google.com (mail-wi0-f170.google.com. [209.85.212.170])
+        by mx.google.com with ESMTPS id jv5si24156013wid.14.2015.07.28.19.35.04
+        for <sammysignal@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 28 Jul 2015 19:35:05 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.212.170 is neither permitted nor denied by best guess record for domain of hleverson@college.harvard.edu) client-ip=209.85.212.170;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 209.85.212.170 is neither permitted nor denied by best guess record for domain of hleverson@college.harvard.edu) smtp.mail=hleverson@college.harvard.edu
+Received: by mail-wi0-f170.google.com with SMTP id ud3so202291590wib.1
+        for <sammysignal@gmail.com>; Tue, 28 Jul 2015 19:35:04 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to
+         :content-type;
+        bh=dg/aJUOOSR336xdSZr5uvVOYWSwsAXOSEoVdTfqlPVs=;
+        b=gHcRT82UtUgopoF2AbTPVe1F7Os2+iR4AfBa/rR1NqFm8evRlNGEEnjxpZcXA9uRJr
+         4vsJg7QDvv9dYyXx1XvyK7SxcTgh76Ss3tx22NnM57Kj1hWz/tKwfQ4gmnClH/oPktDZ
+         yahLgvK3KUJvXPPyQ8ySmpMwcjCY61Qqj7P/DKbrQuhny25VYmfEBam2Pu7xhc+GCuGV
+         RgYO4solRR+LevxtgUsFmmyaHaxHEsVtEgNKzI6CI7GyNrcYw6y7peknI7DMlawmL6fh
+         E5frSvoDAsw/nycqnT7hyjA0JE3nYFx8MhKf7tN5lia6TMMwcSxVq3Qkd47iZui9X+iw
+         /LDQ==
+X-Gm-Message-State: ALoCoQmxi4epaD7AH4Wy11m8rkcH2AC9dHbkbujcyTPGY6Sf6zEMJwocvDL5n3187jXfIYBW2drK
+X-Received: by 10.181.13.241 with SMTP id fb17mr1120296wid.13.1438137304628;
+ Tue, 28 Jul 2015 19:35:04 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.27.108.131 with HTTP; Tue, 28 Jul 2015 19:34:45 -0700 (PDT)
+From: Hannah Leverson <hleverson@college.harvard.edu>
+Date: Tue, 28 Jul 2015 22:34:45 -0400
+Message-ID: <CAP8+FRSxXD_Ttk3YqpNY7h48q9FaU2m0cM0D5daDtHBW4qmOnQ@mail.gmail.com>
+Subject: Copy and paste instructions
+To: sammysignal <sammysignal@gmail.com>
+Content-Type: multipart/alternative; boundary=f46d042182ad2e5688051bfa6f36
+
+--f46d042182ad2e5688051bfa6f36
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Han:  Here=E2=80=99s what I would like to do.  I will draft an e-mail to yo=
+u.  Then
+just copy that text and e-mail it back to me with any edits.  I suspect you
+know how tocopy and paste, right?  You highlight the text you are copying,
+then right click and click =E2=80=9Ccopy,=E2=80=9D then open a new e-mail a=
+nd click on
+=E2=80=9Cpaste=E2=80=9D to insert the copied text into the new e-mail.  At =
+that point you
+can just add any edits.
+
+
+
+I don=E2=80=99t get this Google docs business, so for me this is the easies=
+t way to
+do what you=E2=80=99d like.
+
+--=20
+Hannah Leverson
+Human Evolutionary Biology BA Candidate
+Harvard College | Class of 2017
+Tel. 414-803-8474
+
+--f46d042182ad2e5688051bfa6f36
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"font-size:12.8000001907349=
+px"><span style=3D"font-size:14pt;font-family:Calibri,sans-serif;color:rgb(=
+31,73,125)">Han:=C2=A0 Here=E2=80=99s what I would like to do.=C2=A0 I will=
+ draft an e-mail to you.=C2=A0 Then just=C2=A0<span class=3D"il">copy</span=
+>=C2=A0that text and e-mail it back to me with any edits.=C2=A0 I suspect y=
+ou know how to<span class=3D"il">copy</span>=C2=A0and paste, right?=C2=A0 Y=
+ou highlight the text you are=C2=A0<span class=3D"il">copying</span>, then =
+right click and click =E2=80=9C<span class=3D"il">copy</span>,=E2=80=9D the=
+n open a new e-mail and click on =E2=80=9Cpaste=E2=80=9D to insert the=C2=
+=A0<span class=3D"il">copied</span>=C2=A0text into the new e-mail.=C2=A0 At=
+ that point you can just add any edits.<u></u><u></u></span></p><p class=3D=
+"MsoNormal" style=3D"font-size:12.8000001907349px"><span style=3D"font-size=
+:14pt;font-family:Calibri,sans-serif;color:rgb(31,73,125)"><u></u>=C2=A0<u>=
+</u></span></p><p class=3D"MsoNormal" style=3D"font-size:12.8000001907349px=
+"><span style=3D"font-size:14pt;font-family:Calibri,sans-serif;color:rgb(31=
+,73,125)">I don=E2=80=99t get this Google docs business, so for me this is =
+the easiest way to do what you=E2=80=99d like. =C2=A0</span></p><div><br></=
+div>-- <br><div class=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D=
+"ltr">Hannah Leverson<div><div style=3D"font-size:12.7272720336914px">Human=
+ Evolutionary Biology BA Candidate</div><span style=3D"font-size:12.7272720=
+336914px"><font color=3D"#000000">Harvard College | Class of 2017</font></s=
+pan><div style=3D"font-size:12.7272720336914px">Tel. 414-803-8474=C2=A0</di=
+v></div></div></div></div></div>
+</div>
+
+--f46d042182ad2e5688051bfa6f36--

@@ -140,8 +140,24 @@ def send_confirm_email(code, mail, username, email):
 	msg.body = "Please click the link to confirm your email at skewl.com."
 	msg.html = '<a href="http://' + domain + '/confirm?code=' + code + '&username=' + username + '">Confirm Email</a>'
 	mail.send(msg)
-	return
 
 def email_to_dict(path_to_email):
+	email_text = open(path_to_email, 'rb').read()
+	values = email_text.rsplit('\n')
+	# Just use email.parser.
+
+
+# Returns a list of email objects.
+def get_all():
 	pass
+
+def get_tasks():
+	pass
+
+def get_to_read():
+	pass
+
+def get_events():
+	pass
+
 	

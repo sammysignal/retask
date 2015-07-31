@@ -145,6 +145,7 @@ def email_to_dict(path_to_email):
 	email_text = open(path_to_email, 'rb').read()
 	values = email_text.rsplit('\n')
 	# Just use email.parser.
+	# http://stackoverflow.com/questions/17874360/python-how-to-parse-the-body-from-a-raw-email-given-that-raw-email-does-not
 
 
 # Returns a list of email objects.

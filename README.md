@@ -11,6 +11,7 @@ Flask is a python web framwork. I stole some code from an old project I was work
 2. Please follow the instructions at [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/dev/virtualenvs/) in order to set up a virtual environment.
 2. Next, activate youre newly created virtualenv and [install Flask](http://flask.pocoo.org/docs/0.10/installation/). Just get the normal dev version, not the newest version.
 3. Finally, navigate to the RetaskFlask directory and run 'python main.py' to start the server. If it is running you can navigate to the url that it provides (something like http://localhost:5000/). If it didn't work, you might need to follow the steps at the Flask website to install flask-mail or some other dependencies.
+4. Once the app is running, login with username 'admin' and password 'admin'.
 
 ### Meteor (Deprecated)
 #### The meteor deprecation is old. please follow the instructions above for setting up with Flask.

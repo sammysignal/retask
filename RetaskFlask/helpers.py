@@ -3,6 +3,7 @@ from tinydb import TinyDB, where
 from tinydb.operations import increment, delete
 from validate_email import validate_email
 import base64, string, random
+import copy
 
 users = TinyDB('db/users.json')
 schools = TinyDB('db/schools.json')
@@ -141,11 +142,28 @@ def send_confirm_email(code, mail, username, email):
 	msg.html = '<a href="http://' + domain + '/confirm?code=' + code + '&username=' + username + '">Confirm Email</a>'
 	mail.send(msg)
 
+def get_payload_list(payload, lst=[]):
+	if type(payload) is str:
+		lst.append(payload)
+		return lst
+	# Else, type is a list of payloads.
+	if not payload:
+		return lst
+	str_lst = []
+	for pay in payload:
+		str_lst = get_payload_list(pay.get_payload(), str_lst)
+	return str_lst
+
+# Just use email.parser.
+# https://docs.python.org/2/library/email.message.html
+# http://stackoverflow.com/questions/17872094/python-how-to-parse-things-such-as-from-to-body-from-a-raw-email-source-w
+# http://stackoverflow.com/questions/17874360/python-how-to-parse-the-body-from-a-raw-email-given-that-raw-email-does-not
 def email_to_dict(path_to_email):
 	email_text = open(path_to_email, 'rb').read()
-	values = email_text.rsplit('\n')
-	# Just use email.parser.
-	# http://stackoverflow.com/questions/17874360/python-how-to-parse-the-body-from-a-raw-email-given-that-raw-email-does-not
+	msg = email.message_from_string(email_text)
+	# msg['body'] will be a list of strings, each a payload.
+	msg["body"] = get_payload_list(msg.get_payload())
+	return msg
 
 
 # Returns a list of email objects.

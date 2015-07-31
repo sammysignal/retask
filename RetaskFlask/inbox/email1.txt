@@ -1,0 +1,51 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: sammysignal@gmail.com
+Received: by 10.202.214.144 with SMTP id n138csp2214417oig;
+        Tue, 28 Jul 2015 19:34:32 -0700 (PDT)
+X-Received: by 10.50.88.66 with SMTP id be2mr12930973igb.20.1438137272293;
+        Tue, 28 Jul 2015 19:34:32 -0700 (PDT)
+Return-Path: <mitchelllipka@college.harvard.edu>
+Received: from mail-io0-f174.google.com (mail-io0-f174.google.com. [209.85.223.174])
+        by mx.google.com with ESMTPS id vs16si21170262icb.52.2015.07.28.19.34.32
+        for <sammysignal@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 28 Jul 2015 19:34:32 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.223.174 is neither permitted nor denied by best guess record for domain of mitchelllipka@college.harvard.edu) client-ip=209.85.223.174;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 209.85.223.174 is neither permitted nor denied by best guess record for domain of mitchelllipka@college.harvard.edu) smtp.mail=mitchelllipka@college.harvard.edu
+Received: by mail-io0-f174.google.com with SMTP id a135so5381927ioe.1
+        for <sammysignal@gmail.com>; Tue, 28 Jul 2015 19:34:32 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to
+         :content-type;
+        bh=rogjmVER/iMFE4HGXihilo7hONsE24jRV5zImdB9UPg=;
+        b=eOShM+lPJ0y1Z4w2socnYoxjLqnN1tvm5QS4wauKSScVUp6oeN5auNrs/zweS3Wyoa
+         NAQ7iLPwmVSvU2xe8WmrJuROMuFPAumNRx4j5/MAJoT7Rz/hcCI7rLyEu6IX+DQT5xBM
+         SgMErldFjKRa1QVfqqQDZA50NJdc6oaHP8upAzQifSyEOwb3MW1qOxgiQfAy9fTuT2Qz
+         Y9w18o6Uk0RxUy+kaotVe4CIokA3k9ULz8BxNKxviUQhGzeFIF3p4CMzLUCJ8fAudWBZ
+         8LlU8uUCwVDmghMeAexLq0G4DVoq0LjZEm+Ujxw45eLpTJAaZ4kLsE+H7a/8QRUCUVtp
+         VTAQ==
+X-Gm-Message-State: ALoCoQmN/P7YGWVqQ5pjZe1cI7V4kV6455aasPirlWdAbqi+fxs9vJirP+icVhmHp3ll1kcadvsH
+X-Received: by 10.107.10.19 with SMTP id u19mr61057530ioi.27.1438137272082;
+ Tue, 28 Jul 2015 19:34:32 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.107.192.196 with HTTP; Tue, 28 Jul 2015 19:34:12 -0700 (PDT)
+From: Mitchell Lipka <mitchelllipka@college.harvard.edu>
+Date: Tue, 28 Jul 2015 22:34:12 -0400
+Message-ID: <CAGHZ7PP9JBUhoV+dbqAo6S3+udBanD2RUC1MthDKk7wYDe+smQ@mail.gmail.com>
+Subject: I literally didn't read this link hope it helps
+To: Sameer Mehra <sammysignal@gmail.com>
+Content-Type: multipart/alternative; boundary=001a113ee0343dbfe7051bfa6d2b
+
+--001a113ee0343dbfe7051bfa6d2b
+Content-Type: text/plain; charset=UTF-8
+
+https://citizenlab.org/2015/04/chinas-great-cannon/
+
+--001a113ee0343dbfe7051bfa6d2b
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr"><a href="https://citizenlab.org/2015/04/chinas-great-cannon/">https://citizenlab.org/2015/04/chinas-great-cannon/</a><br></div>
+
+--001a113ee0343dbfe7051bfa6d2b--

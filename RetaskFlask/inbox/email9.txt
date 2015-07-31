@@ -1,0 +1,102 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: sammysignal@gmail.com
+Received: by 10.202.214.144 with SMTP id n138csp2216542oig;
+        Tue, 28 Jul 2015 19:42:06 -0700 (PDT)
+X-Received: by 10.194.185.180 with SMTP id fd20mr68472017wjc.16.1438137726476;
+        Tue, 28 Jul 2015 19:42:06 -0700 (PDT)
+Return-Path: <hleverson@college.harvard.edu>
+Received: from mail-wi0-f169.google.com (mail-wi0-f169.google.com. [209.85.212.169])
+        by mx.google.com with ESMTPS id cg18si33513380wjb.154.2015.07.28.19.42.05
+        for <sammysignal@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 28 Jul 2015 19:42:06 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.212.169 is neither permitted nor denied by best guess record for domain of hleverson@college.harvard.edu) client-ip=209.85.212.169;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 209.85.212.169 is neither permitted nor denied by best guess record for domain of hleverson@college.harvard.edu) smtp.mail=hleverson@college.harvard.edu
+Received: by mail-wi0-f169.google.com with SMTP id xm9so181044725wib.0
+        for <sammysignal@gmail.com>; Tue, 28 Jul 2015 19:42:05 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to
+         :content-type;
+        bh=Crtu8vfg1mgKLixyqDsCFK9/8u32WPjVxyF7cbn+QjI=;
+        b=WaRcgMa5/fQF7aUZHUYCLQWi5E3zX+pR3MADjYy1i6dzuIqAaqiwSslPCVlXv8UrU4
+         CvONKJ5UMxjjHND9DcmK47A3J3QIpkEai8dSTYU3365WjYQrnjF9YaAlb+s4qmw3vnnc
+         MRO0nHUd/cXTdgWxWOGVNb25OXMStjqNgjY7zeCJ7od5MeH3khV1IUqvJLbsmW3LgC4F
+         4LZnpver6b9Z3UEKkwbVPQnSJ58el5T+uTGk8uKWhJirIYxNKMN5GtLXm+BqeLdUqcyR
+         bx4G/F44ypRCbkDH0iV5BoMPAmhfK8Ym6S8LfQXmeoJZ1jzS9tA1PpbEznitthByxad3
+         w9Kg==
+X-Gm-Message-State: ALoCoQnnfoAgtg4yKOytNQ/xZGPCRoiApTrkD2odqLkIhiP5A+kY2RGu2p9YLxcwJshqRKR/AFsc
+X-Received: by 10.180.91.40 with SMTP id cb8mr1181939wib.54.1438137725837;
+ Tue, 28 Jul 2015 19:42:05 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.27.108.131 with HTTP; Tue, 28 Jul 2015 19:41:46 -0700 (PDT)
+From: Hannah Leverson <hleverson@college.harvard.edu>
+Date: Tue, 28 Jul 2015 22:41:46 -0400
+Message-ID: <CAP8+FRTvqRhctDvP9q4BqBiaX2bg5+LPxaNhHcrL6BtUqC-eBg@mail.gmail.com>
+Subject: [THROPTALK] Can we buy a couch during the Winthrop Formal?
+To: Sameer Mehra <sammysignal@gmail.com>, 
+	Mitchell Lipka <mitchelllipka@college.harvard.edu>
+Content-Type: multipart/alternative; boundary=f46d043c7e7849797c051bfa883b
+
+--f46d043c7e7849797c051bfa883b
+Content-Type: text/plain; charset=UTF-8
+
+Mitch from D here, sitting on the floor.
+
+Winthrop Formal is this Saturday from 10PM-2AM at Gore.
+
+And....Couches are also for sale this Saturday, starting at 11PM!
+It's pay per view and costs $99. I was hoping HoCo would chip in, and also
+I don't have a credit card.
+
+Can Winthrop host the buying party in the JCR during the formal?
+
+For your information, my room doesn't have a couch.
+
+Thanks guys!
+
+Mitch
+
+-- 
+Hannah Leverson
+Human Evolutionary Biology BA Candidate
+Harvard College | Class of 2017
+Tel. 414-803-8474
+
+--f46d043c7e7849797c051bfa883b
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div style=3D"font-size:13px"><font color=3D"#000000"><spa=
+n style=3D"font-size:12.8000001907349px">Mitch from D here, sitting on the =
+floor.</span><br></font></div><span style=3D"font-size:13px"><font color=3D=
+"#000000"><div style=3D"font-size:12.8000001907349px"><br></div><div style=
+=3D"font-size:12.8000001907349px">Winthrop Formal is=C2=A0this Saturday=C2=
+=A0from=C2=A0<span class=3D"aBn" tabindex=3D"0"><span class=3D"aQJ">10PM-2A=
+M</span></span>=C2=A0at Gore.</div><div style=3D"font-size:12.8000001907349=
+px"><br></div><div style=3D"font-size:12.8000001907349px">And....Couches ar=
+e also for sale=C2=A0this=C2=A0Saturday, starting at=C2=A0<span class=3D"aB=
+n" tabindex=3D"0"><span class=3D"aQJ">11PM</span></span>!</div></font></spa=
+n><div style=3D"font-size:12.8000001907349px"><font color=3D"#000000">It&#3=
+9;s pay per view and costs $99.=C2=A0<img src=3D"https://ssl.gstatic.com/ui=
+/v1/icons/mail/images/cleardot.gif" class=3D"CToWUd" style=3D"line-height: =
+6px; font-size: 12.8000001907349px;">I was hoping HoCo would chip in, and a=
+lso I don&#39;t have a credit card.</font></div><span style=3D"font-size:13=
+px"><font color=3D"#000000"><div style=3D"font-size:12.8000001907349px"><br=
+></div><div style=3D"font-size:12.8000001907349px">Can Winthrop host the bu=
+ying party in the JCR during the formal?</div><div style=3D"font-size:12.80=
+00001907349px"><br></div><div style=3D"font-size:12.8000001907349px">For yo=
+ur information, my room doesn&#39;t have a couch.=C2=A0</div><div style=3D"=
+font-size:12.8000001907349px"><br></div><div style=3D"font-size:12.80000019=
+07349px">Thanks guys!</div><div style=3D"font-size:12.8000001907349px"><br>=
+</div></font></span><div style=3D"font-size:12.8000001907349px"><font color=
+=3D"#000000">Mitch</font></div><div><br></div>-- <br><div class=3D"gmail_si=
+gnature"><div dir=3D"ltr"><div><div dir=3D"ltr">Hannah Leverson<div><div st=
+yle=3D"font-size:12.7272720336914px">Human Evolutionary Biology BA Candidat=
+e</div><span style=3D"font-size:12.7272720336914px"><font color=3D"#000000"=
+>Harvard College | Class of 2017</font></span><div style=3D"font-size:12.72=
+72720336914px">Tel. 414-803-8474=C2=A0</div></div></div></div></div></div>
+</div>
+
+--f46d043c7e7849797c051bfa883b--

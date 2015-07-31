@@ -27,14 +27,9 @@ def home():
 			action_text = message_strings.signup_email_sent
 	if 'username' in session:
 		# logged in!
-		return render_template('home.html', session=session, error_text=error, action_text=action)
+		return render_template('home.html', session=session, error_text=error, action_text=action, emails=get_email_lists())
 	else:
 		return render_template('home.html', error_text=error_text, action_text=action_text)
-
-@app.route("/api/<school_name>/", methods=['GET'])
-def api():
-	return get_all_classes_for_school(school_name)
-
 
 @app.route("/confirm/", methods=['GET'])
 def confirm():

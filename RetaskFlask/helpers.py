@@ -2,8 +2,7 @@ from flask import Flask, request, session, redirect, url_for, render_template
 from tinydb import TinyDB, where
 from tinydb.operations import increment, delete
 from validate_email import validate_email
-import base64, string, random
-import copy
+import base64, email, string, random, copy, glob, os
 
 users = TinyDB('db/users.json')
 schools = TinyDB('db/schools.json')
@@ -154,6 +153,19 @@ def get_payload_list(payload, lst=[]):
 		str_lst = get_payload_list(pay.get_payload(), str_lst)
 	return str_lst
 
+
+# Given a list of payload text values, determine type.
+def get_type(strings):
+	for payload_str in strings:
+		if "please read" in payload_str:
+			return "to-read"
+		if "event" in payload_str or "please join" in payload_str:
+			return "event"
+		if "please" in payload_str or "could you" in payload_str:
+			return "task"
+	return "other"
+
+
 # Just use email.parser.
 # https://docs.python.org/2/library/email.message.html
 # http://stackoverflow.com/questions/17872094/python-how-to-parse-things-such-as-from-to-body-from-a-raw-email-source-w
@@ -163,20 +175,22 @@ def email_to_dict(path_to_email):
 	msg = email.message_from_string(email_text)
 	# msg['body'] will be a list of strings, each a payload.
 	msg["body"] = get_payload_list(msg.get_payload())
+	msg["type"] = get_type(msg["body"])
 	return msg
-
 
 # Returns a list of email objects.
 def get_all():
-	pass
+	return [email_to_dict(f) for f in glob.glob("inbox/*.txt")]
 
-def get_tasks():
-	pass
+# filter on "task", "to-read", "event", or "other".
+# To get all messages, use 'get_all()' .
+def filter_emails(typ):
+	return [msg for msg in get_all() if msg["type"] == typ]
 
-def get_to_read():
-	pass
-
-def get_events():
-	pass
-
-	
+# Returns a dictionary of email lists
+def get_email_lists():
+	d = {}
+	d["all"] = get_all()
+	for typ in ["task", "to-read", "event", "other"]:
+		d[typ] = filter_emails(typ)
+	return d

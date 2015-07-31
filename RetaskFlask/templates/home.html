@@ -1,7 +1,7 @@
 
 <html>
   <head>
-    <script src="js/home.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>    <script src="{{url_for('static', filename='home.js')}}"></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
@@ -14,27 +14,32 @@
     {% if error_text %} <b>{{ error_text }}</b> <br>{% endif %}
     {% if action_text %} <b>{{ action_text }}</b> <br>{% endif %}
     {% if session.username %}
+    <h1>Retask</h1>
     <div class="container">
       <!-- <h2>Dynamic Tabs</h2> -->
       <ul class="nav nav-tabs">
-        <li class="active"><a data-toggle="tab" href="#home">All</a></li>
+        <li class="active"><a data-toggle="tab" href="#all">All</a></li>
         <li><a data-toggle="tab" href="#tasks">Tasks</a></li>
         <li><a data-toggle="tab" href="#to-read">To-Read</a></li>
         <li><a data-toggle="tab" href="#events">Events</a></li>
+        <li><a data-toggle="tab" href="#other">Other</a></li>
       </ul>
 
       <div class="tab-content">
-        <div id="home" class="tab-pane fade in active">
-          {{"hello"}}
+        <div id="all" class="tab-pane fade in active">
+          {{ emails["all"] }}
         </div>
         <div id="tasks" class="tab-pane fade">
-          {{"goodbye"}}
+          {{ emails["task"] }}
         </div>
         <div id="to-read" class="tab-pane fade">
-          {{"herro"}}
+          {{ emails["to-read"] }}
         </div>
         <div id="events" class="tab-pane fade">
-          {{"gerdbye"}}
+          {{ emails["event"] }}
+        </div>
+        <div id="other" class="tab-pane fade">
+          {{ emails["other"] }}
         </div>
       </div>
     </div>

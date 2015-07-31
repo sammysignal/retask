@@ -1,4 +1,7 @@
 .container {
+	border: solid 5px;
+	border-radius: 5px;
+	border-color: orange;
 }
 
 .nav-tabs {

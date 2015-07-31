@@ -1,3 +1,6 @@
+body {
+}
+
 .container {
 	border: solid 5px;
 	border-radius: 5px;
@@ -10,7 +13,8 @@
 
 .email-bar {
 	border: solid 1px;
-	overflow: auto;
+	border-color: blue;
+	height: 45px;
 }
 	.email-bar li {
 		float: left;

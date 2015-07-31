@@ -27,19 +27,59 @@
 
       <div class="tab-content">
         <div id="all" class="tab-pane fade in active">
-          {{ emails["all"] }}
+          {% for email in emails['all'] %}
+          <div class="email-bar">
+            <ul style="list-style-type: none;">
+              <li>{{ email['from'] }}</li>
+              <li>{{ email['subject'] }}</li>
+              <li>{{ email['date'] }}</li>
+            </ul>
+          </div>
+          {% endfor %}
         </div>
         <div id="tasks" class="tab-pane fade">
-          {{ emails["task"] }}
+          {% for email in emails['task'] %}
+          <div class="email-bar">
+            <ul style="list-style-type: none;">
+              <li>{{ email['from'] }}</li>
+              <li>{{ email['subject'] }}</li>
+              <li>{{ email['date'] }}</li>
+            </ul>
+          </div>
+          {% endfor %}
         </div>
         <div id="to-read" class="tab-pane fade">
-          {{ emails["to-read"] }}
+          {% for email in emails['to-read'] %}
+          <div class="email-bar">
+            <ul style="list-style-type: none;">
+              <li>{{ email['from'] }}</li>
+              <li>{{ email['subject'] }}</li>
+              <li>{{ email['date'] }}</li>
+            </ul>
+          </div>
+          {% endfor %}
         </div>
         <div id="events" class="tab-pane fade">
-          {{ emails["event"] }}
+          {% for email in emails['event'] %}
+          <div class="email-bar">
+            <ul style="list-style-type: none;">
+              <li>{{ email['from'] }}</li>
+              <li>{{ email['subject'] }}</li>
+              <li>{{ email['date'] }}</li>
+            </ul>
+          </div>
+          {% endfor %}
         </div>
         <div id="other" class="tab-pane fade">
-          {{ emails["other"] }}
+          {% for email in emails['other'] %}
+          <div class="email-bar">
+            <ul style="list-style-type: none;">
+              <li>{{ email['from'] }}</li>
+              <li>{{ email['subject'] }}</li>
+              <li>{{ email['date'] }}</li>
+            </ul>
+          </div>
+          {% endfor %}
         </div>
       </div>
     </div>

@@ -7,3 +7,13 @@
 .nav-tabs {
 
 }
+
+.email-bar {
+	border: solid 1px;
+	overflow: auto;
+}
+	.email-bar li {
+		float: left;
+		width: 30%;
+		overflow: hidden;
+	}

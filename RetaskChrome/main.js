@@ -71,8 +71,7 @@
 
 docReady(function() {
 	function check(){
-        console.log("hello from Retask! You are on gmail.com!!!");
-        alert("hello from Retask! You must be " + document.getElementsByClassName('gb_P gb_R')[0].innerHTML + "!");
+        console.log("hello from Retask! You must be " + document.getElementsByClassName('gb_P gb_R')[0].innerHTML + "!");
 	}
     check();
 });

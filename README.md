@@ -3,7 +3,16 @@ Retask
 email organization tool. The new way to do email.
 
 ## Quickstart
-### Flask
+
+### Chrome Extension
+To set up, do the following steps:
+1. Clone the repo on your desktop.
+2. Open [Chrome Extensions](chrome://extensions/) and select 'Load unpacked extension...'.
+3. Navigate to the retask repo and select the entire 'RetaskChrome' directory.
+4. The chrome extension is active! visit gmail and it should work (check in your chrome console).
+5. To check for new changes, type 'git pull' while within the retask directory, and then visit [Chrome Extensions](chrome://extensions/) again and scroll down to 'Retask', then click the 'Reload' link on the retask extension. This will load into Chrome the latest changes that were just pulled.
+
+### Flask (Deprecated)
 Flask is a python web framwork. I stole some code from an old project I was working on so that I could get this app running quick!
 
 1. Get MySQL [here](https://dev.mysql.com/downloads/mysql/). Get the DMG version and follow the download instructions. You may have to ensure that the 'mysql' command is in your path (try 'export PATH=${PATH}:/usr/local/mysql/bin').

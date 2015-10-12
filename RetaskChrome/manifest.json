@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Retask",
+  "description": "Email as Todo.",
+  "version": "1.0",
+
+  "permissions": ["tabs", "activeTab", "https://mail.google.com/mail/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://mail.google.com/mail/*"],
+      "js": ["main.js"]
+    }
+  ]
+}

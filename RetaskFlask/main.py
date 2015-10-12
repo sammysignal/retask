@@ -15,6 +15,8 @@ mail = Mail(app)
 
 app.secret_key = 'Q\xfd\n-r\x13V#_\x84\xbc>\x90ck\xb3\x83\xcaw\x81 \xaby7'
 
+api_key = "u_wot_m8"
+
 @app.route("/", methods=['GET'])
 def home():
 	# action="email-sent"
@@ -151,17 +153,11 @@ def logout():
 			session.pop('username', None)
 	return redirect(url_for('home'))
 
-@app.route("/school/", methods=['GET'])
-def schools():
-	pass
-
-@app.route("/school/<school_name>/", methods=['GET'])
-def school_name():
-	pass
-
-@app.route("/school/<school_hash>/<class_name>/", methods=['GET'])
-def class_name():
-	pass
+@app.route("/api/", methods=['GET'])
+def api():
+	key = request.args.get('api_key', '')
+	if key == api_key:
+		pass
 
 
 if __name__ == "__main__":

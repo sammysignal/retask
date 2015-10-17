@@ -1,0 +1,9 @@
+Notes:
+
+Important selectors:
+
+'.xY'
+	To view full email pills (normal size)
+		white-space: normal
+	To view smaller email pills (crunched size)
+		white-space: nowrap

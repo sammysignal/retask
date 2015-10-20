@@ -9,7 +9,7 @@
   "content_scripts": [
     {
       "matches": ["https://mail.google.com/mail/*"],
-      "js": ["main.js"]
+      "js": ["jquery.js", "main.js"]
     }
   ]
 }

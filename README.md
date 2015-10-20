@@ -6,6 +6,7 @@ email organization tool. The new way to do email.
 
 ### Chrome Extension
 To set up, do the following steps:
+
 1. Clone the repo on your desktop.
 2. Open [Chrome Extensions](chrome://extensions/) and select 'Load unpacked extension...'.
 3. Navigate to the retask repo and select the entire 'RetaskChrome' directory.

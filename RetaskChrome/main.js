@@ -73,6 +73,7 @@ docReady(function() {
 	function check(){
     //console.log("hello from Retask! You must be " + document.getElementsByClassName('gb_P gb_R')[0].innerHTML + "!");
     //console.log(document.getElementById(':2o'));
+    //console.log($('.aeH'))
     var c, r, t;
     t = document.createElement('table');
     r = t.insertRow(0); 
@@ -81,7 +82,17 @@ docReady(function() {
     c = r.insertCell(1);
     c.innerHTML = 456;
     t.className = "TestTable";
-    $('.aeh').appendChild(t);
+    $('.aeH').appendChild(t);
+
+    // make Retask Button
+    console.log($('aic'))
+    retaskButton = document.createElement('div');
+    retaskButton.className = "retaskButton";
+    retaskButton.style.width = "155px";
+    retaskButton.style.height = "37px";
+    retaskButton.style.background = "red";
+    retaskButton.innerHTML = "Compose task";
+    $('.aic').appendChild(retaskButton);
   }
   check();
 });

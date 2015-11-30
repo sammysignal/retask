@@ -1,15 +1,19 @@
 {
-  "manifest_version": 2,
+   "manifest_version": 2,
+   "name": "Retask",
+   "description": "Email as Todo.",
+   "version": "1.0",
+   "permissions": ["activeTab"],
 
-  "name": "Retask",
-  "description": "Email as Todo.",
-  "version": "1.0",
-
-  "permissions": ["tabs", "activeTab", "https://mail.google.com/mail/*"],
-  "content_scripts": [
-    {
-      "matches": ["https://mail.google.com/mail/*"],
-      "js": ["jquery.js", "main.js"]
+   "homepage_url": "http://retask.io/",
+   "content_scripts": [ {
+      "js": ["gmail.js", "script.js"],
+      "css": ["style.css"],
+      "matches": ["*://mail.google.com/*"],
+      "run_at": "document_end"
+   }
+   ],
+  "icons": {
+      "128": "icon128.png"
     }
-  ]
 }

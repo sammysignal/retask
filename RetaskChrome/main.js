@@ -71,28 +71,51 @@ if (document.readyState === "complete") {
 
 docReady(function() {
 	function check(){
-    //console.log("hello from Retask! You must be " + document.getElementsByClassName('gb_P gb_R')[0].innerHTML + "!");
-    //console.log(document.getElementById(':2o'));
-    //console.log($('.aeH'))
-    var c, r, t;
-    t = document.createElement('table');
-    r = t.insertRow(0); 
-    c = r.insertCell(0);
-    c.innerHTML = 123;
-    c = r.insertCell(1);
-    c.innerHTML = 456;
-    t.className = "TestTable";
-    $('.aeH').appendChild(t);
 
-    // make Retask Button
-    console.log($('aic'))
-    retaskButton = document.createElement('div');
-    retaskButton.className = "retaskButton";
-    retaskButton.style.width = "155px";
-    retaskButton.style.height = "37px";
-    retaskButton.style.background = "red";
-    retaskButton.innerHTML = "Compose task";
-    $('.aic').appendChild(retaskButton);
+    var gmail;
+
+
+    function refresh(f) {
+      if( (/in/.test(document.readyState)) || (undefined === Gmail) ) {
+        setTimeout('refresh(' + f + ')', 10);
+      } else {
+        f();
+      }
+    }
+
+
+    var main = function(){
+      // NOTE: Always use the latest version of gmail.js from
+      // https://github.com/KartikTalwar/gmail.js
+      gmail = new Gmail();
+      console.log('Hello,', gmail.get.user_email());
+    }
+
+
+    refresh(main);
+
+    // //console.log("hello from Retask! You must be " + document.getElementsByClassName('gb_P gb_R')[0].innerHTML + "!");
+    // //console.log(document.getElementById(':2o'));
+    // //console.log($('.aeH'))
+    // var c, r, t;
+    // t = document.createElement('table');
+    // r = t.insertRow(0); 
+    // c = r.insertCell(0);
+    // c.innerHTML = 123;
+    // c = r.insertCell(1);
+    // c.innerHTML = 456;
+    // t.className = "TestTable";
+    // $('.aeH').appendChild(t);
+
+    // // make Retask Button
+    // console.log($('aic'))
+    // retaskButton = document.createElement('div');
+    // retaskButton.className = "retaskButton";
+    // retaskButton.style.width = "155px";
+    // retaskButton.style.height = "37px";
+    // retaskButton.style.background = "red";
+    // retaskButton.innerHTML = "Compose task";
+    // $('.aic').appendChild(retaskButton);
   }
   check();
 });

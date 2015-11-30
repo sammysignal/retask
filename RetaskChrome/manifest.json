@@ -1,19 +1,40 @@
 {
-   "manifest_version": 2,
-   "name": "Retask",
-   "description": "Email as Todo.",
-   "version": "1.0",
-   "permissions": ["activeTab"],
-
-   "homepage_url": "http://retask.io/",
-   "content_scripts": [ {
-      "js": ["gmail.js", "script.js"],
-      "css": ["style.css"],
-      "matches": ["*://mail.google.com/*"],
-      "run_at": "document_end"
-   }
-   ],
-  "icons": {
-      "128": "icon128.png"
+  "name": "Retask",
+  "version": "1.0",
+  "description": "Email as Todo.",
+  "content_scripts": [
+    {
+      "matches": ["https://mail.google.com/*"],
+      "js": ["content.js"]
     }
+  ],
+  "web_accessible_resources": [
+    "jquery-1.10.2.min.js",
+    "gmail.js",
+    "main.js"
+  ],
+  "manifest_version": 2,
+  "icons": {
+    "128": "icon128.png"
+  }
 }
+
+// {
+//    "manifest_version": 2,
+//    "name": "Retask",
+//    "description": "Email as Todo.",
+//    "version": "1.0",
+//    "permissions": ["activeTab"],
+
+//    "homepage_url": "http://retask.io/",
+//    "content_scripts": [ {
+//       "js": ["gmail.js", "script.js"],
+//       "css": ["style.css"],
+//       "matches": ["*://mail.google.com/*"],
+//       "run_at": "document_end"
+//    }
+//    ],
+//   "icons": {
+//       "128": "icon128.png"
+//     }
+// }
